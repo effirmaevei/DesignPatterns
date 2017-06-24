@@ -1,0 +1,38 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# eclipse specific git ignore
+*.pydevproject
+
+#.classpath
+#.project
+#.settings/
+#*.ucls
+
+.metadata
+.recommenders
+local.properties
+RemoteSystemsTempFiles/
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.ucls
+*.swp
+*~.nib
+
+
+.loadpath
+
+
+/Builder3Levels/
